@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Lozovskiy94/Japanese-food/static/css/main.8181ebd9.chunk.css",
-    "main.js": "/Lozovskiy94/Japanese-food/static/js/main.0c395323.chunk.js",
-    "main.js.map": "/Lozovskiy94/Japanese-food/static/js/main.0c395323.chunk.js.map",
-    "runtime-main.js": "/Lozovskiy94/Japanese-food/static/js/runtime-main.f0103754.js",
-    "runtime-main.js.map": "/Lozovskiy94/Japanese-food/static/js/runtime-main.f0103754.js.map",
-    "static/js/2.24a60775.chunk.js": "/Lozovskiy94/Japanese-food/static/js/2.24a60775.chunk.js",
-    "static/js/2.24a60775.chunk.js.map": "/Lozovskiy94/Japanese-food/static/js/2.24a60775.chunk.js.map",
-    "index.html": "/Lozovskiy94/Japanese-food/index.html",
-    "static/css/main.8181ebd9.chunk.css.map": "/Lozovskiy94/Japanese-food/static/css/main.8181ebd9.chunk.css.map",
-    "static/js/2.24a60775.chunk.js.LICENSE.txt": "/Lozovskiy94/Japanese-food/static/js/2.24a60775.chunk.js.LICENSE.txt",
-    "static/media/sushi.a2b4b921.jpg": "/Lozovskiy94/Japanese-food/static/media/sushi.a2b4b921.jpg"
+    "main.css": "/Japanese-food/static/css/main.8181ebd9.chunk.css",
+    "main.js": "/Japanese-food/static/js/main.0c395323.chunk.js",
+    "main.js.map": "/Japanese-food/static/js/main.0c395323.chunk.js.map",
+    "runtime-main.js": "/Japanese-food/static/js/runtime-main.5468d3db.js",
+    "runtime-main.js.map": "/Japanese-food/static/js/runtime-main.5468d3db.js.map",
+    "static/js/2.24a60775.chunk.js": "/Japanese-food/static/js/2.24a60775.chunk.js",
+    "static/js/2.24a60775.chunk.js.map": "/Japanese-food/static/js/2.24a60775.chunk.js.map",
+    "index.html": "/Japanese-food/index.html",
+    "static/css/main.8181ebd9.chunk.css.map": "/Japanese-food/static/css/main.8181ebd9.chunk.css.map",
+    "static/js/2.24a60775.chunk.js.LICENSE.txt": "/Japanese-food/static/js/2.24a60775.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/Japanese-food/static/media/sushi.a2b4b921.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0103754.js",
+    "static/js/runtime-main.5468d3db.js",
     "static/js/2.24a60775.chunk.js",
     "static/css/main.8181ebd9.chunk.css",
     "static/js/main.0c395323.chunk.js"
